@@ -1,4 +1,4 @@
-<h1 style="background-color: #2025BD; "align="center">Hi 👋, I'm Anıl</h1>
+<h1 style="background-color: #2025BD;" "align="center">Hi 👋, I'm Anıl</h1>
 <h3 align="center">Welcome to my profile. I'm passionate about writing code and learning anything.</h3>
 
 - 🌱 I’m currently learning **languages and frameworks like JavaScript,JAVA,React etc...**
