@@ -20,7 +20,7 @@
 
 <a href="https://linkedin.com/in/aniler0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aniler0" height="30" width="40" /></a>
 <a href="https://github.com/aniler0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="aniler0" height="30" width="40" /></a>
-<a href="https://aniler.medium.com/ target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="aniler" height="30" width="40" /></a>
+<a href="https://aniler.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="aniler" height="30" width="40" /></a>
   <a href="https://twitter.com/_aniler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_aniler" height="30" width="40" /></a>
 <a href="https://instagram.com/anlerr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="anlerr" height="30" width="40" /></a>
 </p>
