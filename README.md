@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=aniler0&color=blueviolet)
 <h1 align="center">Hi 👋, I'm Anıl</h1>
 <h3 align="center">Welcome to my profile. I'm passionate about writing code and learning anything.</h3>
 
