@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, I'm Anıl</h1>
 <h3 align="center">Welcome to my profile. I'm passionate about writing code and learning anything.</h3>
 
-- 🌱 I’m currently learning **languages and frameworks like JavaScript,JAVA,React etc...**
+- 🌱 I’m currently making projects in **JavaScript,React,Next,Typescript** 
+      and using technologies which are **Styled Components,Material UI, Ant Design,React Router,Redux,Context API etc.**
 
-- 💬 Ask me about **Java,JavaScript**
+- 💬 Ask me about **JavaScript, React and Frontend**
 
 - 📫 How to reach me **anil.er@hotmail.com**
 
