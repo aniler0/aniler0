@@ -1,8 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=aniler0&color=blueviolet)
-<h1 align="center"></h1>
-<p>
-  <h1 align="center"><b>Hi 👋, I'm Anıl</h1>
-</p>
+<h1 align="center">Hi 👋, I'm Anıl</h1>
+
 <p align="center">
 <a href="https://www.aniler.me"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
 <a href="https://twitter.com/_aniler"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
