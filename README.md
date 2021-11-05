@@ -1,29 +1,48 @@
 ![](https://komarev.com/ghpvc/?username=aniler0&color=blueviolet)
-<h1 align="center">Hi 👋, I'm Anıl</h1>
-<h3 align="center">Welcome to my profile. I'm passionate about writing code and learning anything.</h3>
-
-- 🌱 I’m currently making projects in **JavaScript,React,Next,Typescript** 
-      and using technologies which are **Styled Components,Material UI, Ant Design,React Router,Redux,Context API etc.**
-
-- 💬 Ask me about **JavaScript, React and Frontend**
-
-- 📫 How to reach me **anil.er@hotmail.com**
-
-- :link: This is my portfolio page [Link](https://www.aniler.me)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniler0&show_icons=true&theme=gotham&locale=en&layout=compact" alt="aniler0" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniler0&theme=gotham&show_icons=true" alt="aniler0" /></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/aniler0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aniler0" height="30" width="40" /></a>
-<a href="https://github.com/aniler0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="aniler0" height="30" width="40" /></a>
-<a href="https://aniler.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="aniler" height="30" width="40" /></a>
-  <a href="https://twitter.com/_aniler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_aniler" height="30" width="40" /></a>
-<a href="https://instagram.com/anlerr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="anlerr" height="30" width="40" /></a>
+<h1 align="center"></h1>
+<p>
+  <h1 align="center"><b>Hi 👋, I'm Anıl</h1>
 </p>
+<p align="center">
+<a href="https://www.aniler.me"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;:
+<a href="https://twitter.com/_aniler"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/aniler0/"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
+<>
+</p>
+<br />
+
+<p>Enthusiastic Frontend Developer since 2020 using ReactJS,Typescript,NextJS and other frontend tools like Styled-Components, MaterialUI, Ant-Design etc. </p>
+<br />
+
+<h2 align="center">About me</h2>
+<br />
+<p>Being a software developer was my childhood dream. Creating a product/
+project like an architect or sculptor makes me happy. That's why I'm 
+constantly improving myself in the field of Frontend, I love learning and 
+gaining experience. At the same time, as a Computer Engineer, I am 
+successful in trying to solve the problems encountered without giving up :muscle:</p>
+<br />
+
+<p>
+<h3 align="center">Tech Stack</h3>
+</p>
+<br />
+<p align="center">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffd500?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-198CFF?style=flat-square&logo=react&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
+      
+   </p>
+<br />
+
+---
+
+<br />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aniler0&theme=gotham&show_icons=true" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniler0&show_icons=true&theme=gotham&locale=en&layout=compact" width="400" />
+</p>
+
